@@ -20,7 +20,6 @@ variable. For instance, currency pairs could be USD/INR, USD/GBP, USD/EUR, USD/C
 
 ## Tools
 
-
 ## Characteristics
 Component that uses the current exchange rate to convert a selected currency's value to another currency.
 
