@@ -20,6 +20,8 @@ variable. For instance, currency pairs could be USD/INR, USD/GBP, USD/EUR, USD/C
 
 
 ## Tools
+streamline ,VScode,streamlit_lottie,requests
+sklearn ,plotly,numpy,pandas,matplotlib
 
 ## Characteristics
 Component that uses the current exchange rate to convert a selected currency's value to another currency.
@@ -36,6 +38,8 @@ UI should have the option to select 2 currencies (Currency 1 and Currency 2). Cu
 Users should have an option to select duration for which they would prefer to see the data and graphs.
 
 ## Preview
+
+
 
 
 ## Contributors
