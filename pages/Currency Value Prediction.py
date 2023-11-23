@@ -1,5 +1,3 @@
-#CurrencyPrediction
-
 import pandas as pd
 import streamlit as st
 from sklearn.linear_model import LinearRegression   #python -m pip install scikit-learn
@@ -58,7 +56,7 @@ predictions = model.predict(X_test)
 accuracy = model.score(X_test, y_test)
 
 # Allow the user to input a specific month and year for prediction
-selected_month_year = st.text_input("Select Month and Year for Prediction (YYYY-MM):")
+selected_month_year = st.text_input("Enter Month and Year for Prediction (YYYY-MM):")
 
 try:
     year, month = map(int, selected_month_year.split('-'))
@@ -67,16 +65,19 @@ try:
 except ValueError:
     predicted_value = None
 
-# Plot the regression line
+# Plot the regression line with year as x-axis labels
 regression_line_x = np.linspace(X.min(), X.max(), 100).reshape(-1, 1)
 regression_line_y = model.predict(regression_line_x)
+
+# Extract year from Combined feature for x-axis labels
+regression_line_years = regression_line_x.flatten() // 100
 
 # Display regression line and coefficients
 st.subheader("Regression Line:")
 fig, ax = plt.subplots()
-ax.scatter(X, y, label='Actual Data')
-ax.plot(regression_line_x, regression_line_y, color='red', label='Regression Line')
-ax.set_xlabel("Combined Year and Month")
+ax.scatter(X.flatten() // 100, y, label='Actual Data')  # Use year for x-axis labels
+ax.plot(regression_line_years, regression_line_y, color='red', label='Regression Line')
+ax.set_xlabel("Year")  # Change x-axis label
 ax.set_ylabel(currency)
 ax.legend()
 st.pyplot(fig)
