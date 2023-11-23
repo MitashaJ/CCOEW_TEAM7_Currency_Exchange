@@ -47,5 +47,6 @@ with col2:
     st.text('Converted amount')
     st.success(converted)  #displaying converted amount
     
+    
 #styling
 st.markdown('<style> body{text-align:center;}</style>',unsafe_allow_html=True)
