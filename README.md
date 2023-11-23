@@ -31,15 +31,16 @@ variable. For instance, currency pairs could be USD/INR, USD/GBP, USD/EUR, USD/C
 9. matplotlib
 
 ## Characteristics
-Component that uses the current exchange rate to convert a selected currency's value to another currency.
+Component that uses the current exchange rate to convert a selected currency's value to another currency, provision of FX rates for a chosen currency while taking a chosen currency into account.
+A user interface screen that shows all the currencies and their short codes
 
-A user interface screen that shows all the currencies, their short codes, descriptions, and numbers.
+A Dashboard to visualize the analysis of the Exchange rate by providing a time duration and choosing the range for the same, which in turn results in the highest and the lowest rate of that particular currency on the day observed.
 
-A feature that provides FX rates for a chosen currency while taking a chosen currency into account.
+A Dashboard to Classify the currencies according to their current rates by providing the threshold values for the categories to classify currencies
 
-User interface (UI) that is user friendly and fluid for all types of users. However, a user can see the exchange rate at a specific point in the graph.
+Predicting the value of FX rates in future 
 
-## User Interface Essentials
+## User Interface Essentials Attained!
 UI should have the option to select 2 currencies (Currency 1 and Currency 2). Currency 1 auto populate with USD. Users should have the search capability to search for a currency in currency 2 field. Display currency name next to currency field.
 
 Users should have an option to select duration for which they would prefer to see the data and graphs.
