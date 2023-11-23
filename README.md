@@ -20,15 +20,15 @@ variable. For instance, currency pairs could be USD/INR, USD/GBP, USD/EUR, USD/C
 
 
 ## Tools
-streamline 
-VScode
-streamlit_lottie
-requests
-sklearn 
-plotly
-numpy
-pandas
-matplotlib
+1. streamline 
+2. VScode
+3. streamlit_lottie
+4. requests
+5. sklearn 
+6. plotly
+7. numpy
+8. pandas
+9. matplotlib
 
 ## Characteristics
 Component that uses the current exchange rate to convert a selected currency's value to another currency.
