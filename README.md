@@ -24,10 +24,14 @@ variable. For instance, currency pairs could be USD/INR, USD/GBP, USD/EUR, USD/C
 
 
 ## Characteristics
-
+Component that uses the current exchange rate to convert a selected currency's value to another currency.
+A user interface screen that shows all the currencies, their short codes, descriptions, and numbers.
+A feature that provides FX rates for a chosen currency while taking a chosen currency into account.
+User interface (UI) that is user friendly and fluid for all types of users. However, a user can see the exchange rate at a specific point in the graph.
 
 ## User Interface Essentials
-
+UI should have the option to select 2 currencies (Currency 1 and Currency 2). Currency 1 auto populate with USD. Users should have the search capability to search for a currency in currency 2 field. Display currency name next to currency field.
+Users should have an option to select duration for which they would prefer to see the data and graphs.
 
 ## Preview
 
