@@ -82,10 +82,6 @@ ax.set_ylabel(currency)
 ax.legend()
 st.pyplot(fig)
 
-st.subheader("Regression Coefficients:")
-st.write(f"Intercept: {model.intercept_}")
-st.write(f"Coefficient: {model.coef_[0]}")
-
 # Display predicted value and accuracy
 st.subheader(f"Predicted {currency} exchange rate in {selected_month_year}:")
 if predicted_value is not None:
