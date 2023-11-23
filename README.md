@@ -18,6 +18,7 @@ variable. For instance, currency pairs could be USD/INR, USD/GBP, USD/EUR, USD/C
 
 ![Money GIF](https://media.giphy.com/media/xTkcExjXuOJj69fVv2/giphy.gif)
 
+
 ## Tools
 
 ## Characteristics
