@@ -47,6 +47,20 @@ Users should have an option to select duration for which they would prefer to se
 ## Preview
 
 ![image](https://github.com/MitashaJ/CCOEW_TEAM7_Currency_Exchange/assets/84630655/419b42f1-078f-4cfb-b5c9-f991677c685f)
+1)
+![image](https://github.com/MitashaJ/CCOEW_TEAM7_Currency_Exchange/assets/84630655/eee1c3c8-2a48-479c-bbac-bad1d18432a4)
+2)
+![image](https://github.com/MitashaJ/CCOEW_TEAM7_Currency_Exchange/assets/84630655/2ab102b9-36cd-4c03-a2d8-206a27ee752c)
+3)
+![image](https://github.com/MitashaJ/CCOEW_TEAM7_Currency_Exchange/assets/84630655/e26e6bf4-5e34-4b72-b33f-be0f8b2fa787)
+4)
+![image](https://github.com/MitashaJ/CCOEW_TEAM7_Currency_Exchange/assets/84630655/1ad7e85a-26ec-4d26-8075-246e2728ce85)
+5)
+![image](https://github.com/MitashaJ/CCOEW_TEAM7_Currency_Exchange/assets/84630655/c6872c7b-2bd6-4804-99e0-44f532ce0c4f)
+6)
+![image](https://github.com/MitashaJ/CCOEW_TEAM7_Currency_Exchange/assets/84630655/d1aa9332-dad9-4536-901e-1f97f27ccbdd)
+7)
+![image](https://github.com/MitashaJ/CCOEW_TEAM7_Currency_Exchange/assets/84630655/663a7c7d-fbdb-46a6-86b3-ada68c80cff0)
 
 
 
