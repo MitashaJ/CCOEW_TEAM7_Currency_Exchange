@@ -46,6 +46,7 @@ Users should have an option to select duration for which they would prefer to se
 
 ## Preview
 
+![image](https://github.com/MitashaJ/CCOEW_TEAM7_Currency_Exchange/assets/84630655/419b42f1-078f-4cfb-b5c9-f991677c685f)
 
 
 
