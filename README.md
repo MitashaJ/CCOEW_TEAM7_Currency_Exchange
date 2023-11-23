@@ -16,7 +16,7 @@ currency exchange rate dataset between a currency pair and will be provided in a
 Use USD as Base Currency where first currency will always be USD and second currency will be
 variable. For instance, currency pairs could be USD/INR, USD/GBP, USD/EUR, USD/CAD etc.
 
-![GIF Demo](https://media.giphy.com/media/eVD46XHIqptSFfcEF2/giphy.gif)
+![Money GIF](https://media.giphy.com/media/xTkcExjXuOJj69fVv2/giphy.gif)
 
 ## Tools
 
